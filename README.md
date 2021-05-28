@@ -1,7 +1,8 @@
 # graphql-dotnet-apollo-studio
 This project is the supporting code for a series on integrating [GraphQL.NET](https://github.com/graphql-dotnet/graphql-dotnet) to [Apollo Studio](https://www.apollographql.com/docs/studio/getting-started/):
 * https://dev.to/mattjhosking/integrating-apollo-studio-with-graphql-for-net-part-1-4h5f
-* Part 2 in progress
+* https://dev.to/mattjhosking/integrating-apollo-studio-with-graphql-for-net-part-2-ln4
+* Part 3 in progress
 
 ## Features
 * Standard ASP.NET 5 solution (from `dotnet new webapi`)
